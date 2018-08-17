@@ -1,0 +1,55 @@
+Report created: 
+	09/02/2017	12:21:27 a.m.
+
+Project name: animacion li y pablo auto-save 88 auto-save 14.aep
+
+Source files collected to: 
+	C:\Users\altair-2\Desktop\salon-carlitos\salon carlistos
+
+Source files collected: All
+
+Collected comps:  
+	salón lateral
+	salón
+	A crowd of dancing people, all in silhouette, on a greenscreen (1).mp4 Comp 1
+	Silhouette of Dancing Crowd people
+	guitarristas
+	guitarristas 2
+	guitarristas 3
+	salón 2
+	
+Number of collected files:  5
+
+Size of collected files:  19,0 MB
+
+Collected source files: 
+	\\SERVERWILLY\Recursos 3D\organizar pc2\sacar\gabriel colet\animacion li y pablo\(Footage)\bailando\guitarristas.ai
+	\\SERVERWILLY\Recursos 3D\organizar pc2\sacar\gabriel colet\animacion li y pablo\(Footage)\fondos\salón lateral Layers\salón lateral.ai
+	\\SERVERWILLY\Recursos 3D\organizar pc2\sacar\gabriel colet\animacion li y pablo\(Footage)\fondos\salón Layers\salón.ai
+	\\SERVERWILLY\Recursos 3D\organizar pc2\sacar\gabriel colet\animacion li y pablo\(Footage)\videos\A crowd of dancing people, all in silhouette, on a greenscreen (1).mp4
+	\\SERVERWILLY\Recursos 3D\organizar pc2\sacar\gabriel colet\animacion li y pablo\(Footage)\videos\Silhouette of Dancing Crowd people.mp4
+	
+Rendering plug-ins:
+	Advanced 3D
+	
+Effects used:  9
+
+Effect:  Color Range
+	
+Effect:  Fill
+	
+Effect:  Gaussian Blur
+	
+Effect:  Keylight (1.2)
+	
+Effect:  Levels
+	
+Effect:  Looks
+	
+Effect:  Optical Flares
+	
+Effect:  Puppet
+	
+Effect:  VC Reflect
+	
+
